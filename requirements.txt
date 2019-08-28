@@ -1,0 +1,12 @@
+more-itertools
+tempora
+portend
+bottle
+sigtools
+clize
+lockfile
+zerobin
+cherrypy
+cheroot
+jaraco.functools
+backports.functools-lru-cache
